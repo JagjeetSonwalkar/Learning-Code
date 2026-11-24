@@ -1,0 +1,15 @@
+name = "roHit_45 the captain of India & MI"
+
+print(name.capitalize())
+print(name.casefold())
+print(name.count("rohit"))
+print(name.endswith("45"))
+print(name.find("ro"))
+print(name.format("RoHiT_45"))
+print(name.isalnum())
+print(name.isalpha())
+print(name.isnumeric())
+print(name.lower())
+print(name.replace("Hit_","-"))
+print(name.split(','))
+print(name.index("the"))
